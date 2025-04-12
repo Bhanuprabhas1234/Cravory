@@ -9,7 +9,7 @@
     </script>
 </head>
 <body>
-    <h2>Welcome to the Restaurant</h2>
+    <h2>Cavory - A place where cravings start</h2>
 
     <table border="1">
         <tr>
